@@ -1,0 +1,37 @@
+{
+  "Give_feedback": {
+    "share_thought": "感想を共有する",
+    "required": "は必須項目です",
+    "select_feedback": "フィードバックを選択",
+    "letus_know": "気になることをお聞かせください",
+    "aditional_details": "追加の詳細",
+    "cancel": "キャンセルする",
+    "send_feedback": "フィードバックを送る",
+    "ask_question": "質問する"
+  },
+  "Be_guru": {
+    "become_guru": "指導者になる",
+    "embrace_thought": "内なる叡智を受け入れ、その知識を他の人々と分かち合い、第一人者になるのだ",
+    "accept_terms": "すべての条件に同意します。",
+    "cancel": "キャンセルする",
+    "submit": "提出",
+    "click_here": "ここをクリック",
+    "unlock_mentorship": "プロフィールを入力して、メンターシップの機会を獲得してください！",
+    "enhance_mentorship": "メンターシップをより充実したものにするため、以下の欄に必須事項をすべてご記入ください：",
+    "personal_info": "[ 個人情報、学歴、経験、スキル、プロジェクト。]",
+    "complete_profile": " をクリックしてプロフィールを記入し、やりがいのあるメンターシップの旅に出発してください。"
+  },
+  "navbar": {
+    "activities": "アクティビティ",
+    "profile": "プロフィール",
+    "logout": "ログアウト",
+    "calender": "私のカレンダー",
+    "become_guru": "指導者になる",
+    "portal": "ポータル",
+    "news": "ニュース/アップデート",
+    "feedback": "フィードバック",
+    "my_profile": "プロフィール",
+    "switch_to": "に切り替える ",
+    "switch_to_admin": "メンターパネルに切り替え"
+  }
+}

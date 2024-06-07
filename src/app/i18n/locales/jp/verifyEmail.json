@@ -1,0 +1,7 @@
+{
+  "verify_emailAddresss": "続行するにはメールアドレスを確認する",
+  "resend_verification": "認証メールを再送する",
+  "sent_email_address": "そのアドレスにメールを送ったところだ：",
+  "verify_email_address": "Eメールを確認し、記載されているリンクを選択して、Eメールアドレスを確認してください。を選択してください。",
+  "back_to_home": "ホームへ戻る"
+}

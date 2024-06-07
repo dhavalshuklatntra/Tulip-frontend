@@ -1,0 +1,32 @@
+{
+  "signup_text": "サインアップ",
+  "register": "新規登録",
+  "login": "ログイン",
+  "back_to_home": "ホームへ戻る",
+  "signup_info": "提供された情報は、お客様固有のGurukula IDの生成およびアカウント識別に使用されますので、正確であることをご確認ください",
+  "first_name": "名",
+  "last_name": "名",
+  "email": "メールアドレス",
+  "password": "パスワード",
+  "confirm_password": "パスワード（確認用）",
+  "dob": "誕生日",
+  "country": "国",
+  "country_name": "国名",
+  "tnc": "利用規約に同意する",
+  "privacy_policy": "プライバシーポリシー",
+  "accept_the": "を受け入れる",
+  "terms": "用語",
+  "and": "と",
+  "have_account": "すでに登録されています ",
+  "error": {
+    "sigunup": {
+      "first_name": "名前を入力してください",
+      "last_name": "姓を入力してください",
+      "email": "メールアドレスを入力してください",
+      "password": "パスワードを入力してください",
+      "confirm_password": "パスワードを再入力してください",
+      "dob": "誕生日を入力してください",
+      "country": "国を選んでください"
+    }
+  }
+}

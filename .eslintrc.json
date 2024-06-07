@@ -1,0 +1,37 @@
+{
+  "extends": ["next/core-web-vitals", "next"],
+  "plugins": ["react-hooks","prettier"],
+  "rules": {
+    "prettier/prettier": "warn",
+    "next/link-passhref": "off",
+    "next/no-img-element": "off", // if you prefer to use <img> tags directly
+    "react/function-component-definition": [
+      "warn",
+      {
+        "namedComponents": "arrow-function"
+      }
+    ],
+    "sort-imports": [
+      "error",
+      {
+        "ignoreCase": true,
+        "ignoreDeclarationSort": true,
+        "ignoreMemberSort": false
+      }
+    ],
+    "import/order": [
+      "error",
+      {
+        "groups": ["builtin", "external", "internal"],
+        "pathGroups": [
+          {
+            "pattern": "react",
+            "group": "external",
+            "position": "before"
+          }
+        ],
+        "newlines-between": "always"
+      }
+    ]
+  }
+}

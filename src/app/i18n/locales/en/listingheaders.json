@@ -1,0 +1,14 @@
+{
+  "challenge": {
+    "accepted": "Accepted",
+    "pending": "Pending",
+    "notsubmitted": "Not Submited",
+    "evaluationpending": "Evaluation Pending",
+    "inreview": "In Review",
+    "completed": "Completed",
+    "favourites": "Favourites",
+    "failedchallenges": "Failed Challenges",
+    "totalmentors": "Total Gurus",
+    "newmentors": "New Gurus"
+  }
+}

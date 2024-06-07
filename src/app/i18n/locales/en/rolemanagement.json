@@ -1,0 +1,20 @@
+{
+  "role_management": "Role Management",
+  "role_name": "Role Name",
+  "role": "Role",
+  "rows_page": "Rows per page",
+  "add": "Add",
+  "action": "Action",
+  "add_role": "Add Role",
+  "edit_role": "Edit Role",
+  "view_role": "View Role",
+  "status": "Status",
+  "name_of_role": "Name of Role",
+  "module_name": "Module Name",
+  "permission": "Permission",
+  "platform": "Platform",
+  "apply": "Apply",
+  "validations": {
+    "role_req": "Please enter Role Name."
+  }
+}

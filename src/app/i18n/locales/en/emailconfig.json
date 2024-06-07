@@ -1,0 +1,28 @@
+{
+  "email_config": "Email Configuration",
+  "from_email": "From Email",
+  "smtp_host": "SMTP Host",
+  "pop3/imps_host": "POP3/IMPS Host",
+  "smtp_port": "SMTP Port",
+  "pop3/imps_port": "POP3/IMPS Port",
+  "user_name": "User Name",
+  "Password": "Password",
+  "auth_req": "SMTP server requires authentication",
+  "save": "Save",
+  "validations": {
+    "email_req": "Please enter Email Address.",
+    "valid_email": "Please enter valid Email Address.",
+    "smtp_host_req": "Please enter SMTP Host.",
+    "valid_smtp_host": "Please enter valid SMTP Host.",
+    "pop3host_req": "Please enter POP3/IMAP Host.",
+    "valid_pop3host": "Please enter valid POP3/IMAP Host.",
+    "smtp_port_req": "Please enter SMTP Port.",
+    "valid_smtp_port": "Please enter valid SMTP Port.",
+    "pop3port_req": "Please enter POP3/IMAP Port.",
+    "valid_pop3port": "Please enter valid POP3/IMAP Port.",
+    "user_name_req": "Please enter Username.",
+    "user_name_minmax": "More than 1 and Less than 15 characters are allowed.",
+    "password_req": "Please enter Password.",
+    "valid_password": "Must Contain 8 Characters, 1 Uppercase, 1 Lowercase, 1 Number and 1 special case Character"
+  }
+}

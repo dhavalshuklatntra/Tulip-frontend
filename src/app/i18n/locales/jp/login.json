@@ -1,0 +1,29 @@
+{
+  "email": "メールアドレス / Gurukula ID",
+  "password": "パスワード",
+  "back_to_home": "ホームへ戻る",
+  "back_to_login": "ログインに戻る",
+  "remember_me": "ログイン情報を保存する",
+  "login": "ログイン",
+  "forgot_password": "パスワードをお忘れですか ?",
+  "reset_password": "パスワードのリセット",
+  "verify_emailAddresss": "続行するにはメールアドレスを確認する",
+  "resend_verification": "認証メールを再送する",
+  "resend_otp": "OTPの再送信",
+  "change_platform": "プラットフォーム変更",
+  "forgotPass_text": "アカウントに関連付けられたEメールまたはグルクラIDを入力してください",
+  "have_account": "すでに登録されています ",
+  "have_no_account": "アカウントをお持ちでないですか",
+  "tnc": "利用規約に同意する",
+  "privacy_policy": "プライバシーポリシー",
+  "accept_the": "を受け入れる",
+  "terms": "用語",
+  "and": "と",
+  "error": {
+    "login": {
+      "email": "メールアドレスまたはグルクラIDを入力してください",
+      "email_format": "無効な電子メール形式",
+      "password": "パスワードを入力してください"
+    }
+  }
+}

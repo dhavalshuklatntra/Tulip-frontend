@@ -1,0 +1,28 @@
+{
+  "email_config": "Eメール設定",
+  "from_email": "差出人",
+  "smtp_host": "SMTPホスト",
+  "pop3/imps_host": "POP3/IMPSホスト",
+  "smtp_port": "SMTPポート",
+  "pop3/imps_port": "POP3/IMPSポート",
+  "user_name": "ユーザー名",
+  "Password": "パスワード",
+  "auth_req": "SMTPサーバーは認証を必要とする",
+  "save": "保存",
+  "validations": {
+    "email_req": "メールアドレスを入力してください",
+    "valid_email": "有効なメールアドレスを入力してください。",
+    "smtp_host_req": "SMTPホストを入力してください。",
+    "valid_smtp_host": "有効なSMTPホストを入力してください。",
+    "pop3host_req": "POP3/IMAPホストを入力してください",
+    "valid_pop3host": "有効なPOP3/IMAPホストを入力してください。",
+    "smtp_port_req": "SMTPポートを入力してください。",
+    "valid_smtp_port": "有効なSMTPポートを入力してください。",
+    "pop3port_req": "POP3/IMAP Portを入力してください。",
+    "valid_pop3port": "有効なPOP3/IMAPポートを入力してください。",
+    "user_name_req": "ユーザー名を入力してください。",
+    "user_name_minmax": "1文字以上15文字以下が使用可能。",
+    "password_req": "パスワードを入力してください。",
+    "valid_password": "8文字（大文字1文字、小文字1文字、数字1文字、特殊文字1文字）が必要です"
+  }
+}

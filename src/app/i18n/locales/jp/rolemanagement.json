@@ -1,0 +1,20 @@
+{
+  "role_management": "役割管理",
+  "role_name": "役割名",
+  "role": "役割",
+  "add": "追加",
+  "action": "アクション",
+  "rows_page": "ページごとの行数",
+  "add_role": "役割の追加",
+  "edit_role": "役割を編集する",
+  "view_role": "役割を見る",
+  "status": "ステータス",
+  "name_of_role": "役割の名前",
+  "module_name": "モジュール名",
+  "permission": "パーミッション",
+  "platform": "プラットフォーム",
+  "apply": "応募する",
+  "validations": {
+    "role_req": "役割名を入力してください"
+  }
+}

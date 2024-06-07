@@ -1,0 +1,14 @@
+{
+  "challenge": {
+    "accepted": "承認済み",
+    "pending": "保留中",
+    "notsubmitted": "未提出",
+    "evaluationpending": "評価保留",
+    "inreview": "審査中",
+    "completed": "完了",
+    "favourites": "お気に入り",
+    "failedchallenges": "失敗したチャレンジ",
+    "totalmentors": "トータル・グル",
+    "newmentors": "新しい達人たち"
+  }
+}

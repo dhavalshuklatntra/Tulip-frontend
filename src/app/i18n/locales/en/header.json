@@ -1,0 +1,44 @@
+{
+  "Give_feedback": {
+    "share_thought": "Share your thoughts",
+    "required": "Required fields are marked with an asterisk",
+    "select_feedback": "Select feedback",
+    "letus_know": "Let us know what’s on your mind",
+    "aditional_details": "Additional Details",
+    "cancel": "Cancel",
+    "send_feedback": "Send Feedback",
+    "ask_question": "Ask a question"
+  },
+  "Be_guru": {
+    "become_guru": "Be a Guru",
+    "embrace_thought": "Embrace your inner wisdom and share your knowledge with others to become a guru.",
+    "accept_terms": "I accept all the terms and conditions.",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "click_here": "Click here",
+    "unlock_mentorship": "Complete Your Profile to Unlock Mentorship Opportunities!",
+    "enhance_mentorship": "To enhance your mentorship experience, please fill in all mandatory details in the following sections:",
+    "personal_info": "[Personal Information, Education, Experience, Skills, and Projects.]",
+    "complete_profile": " to complete your profile and embark on a rewarding mentorship journey."
+  },
+  "navbar": {
+    "activities": "Activities",
+    "profile": "Profile",
+    "logout": "Logout",
+    "become_guru": "Be a Guru",
+    "portal": "Portal",
+    "calender": "My Calender",
+    "news": "News/Updates",
+    "feedback": "Give Feedback",
+    "my_profile": "My Profile",
+    "switch_to": "Switch to ",
+    "switch_to_admin": "Switch to Mentor Panel"
+  },
+  "adminDropdown": {
+    "profile": "Profile",
+    "setting": "Settings",
+    "logout": "Logout",
+    "switch_to_gurukula": "Switch to Gurukula",
+    "switch_to_yntra": "Switch to Yntra"
+  }
+}

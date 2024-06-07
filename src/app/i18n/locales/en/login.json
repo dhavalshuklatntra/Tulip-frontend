@@ -1,0 +1,31 @@
+{
+  "email": "Email/Gurukula ID",
+  "password": "Password",
+  "back_to_home": "Back to Home",
+  "back_to_login": "Back to Login",
+  "remember_me": "Remember me",
+  "login": "Login",
+  "forgot_password": "Forgot password ?",
+  "reset_password": "Reset Password",
+  "verify_emailAddresss": "Verify Email Address to continue",
+  "resend_verification": "Resend verification email",
+  "resend_otp": "Resend OTP",
+  "change_platform": "Change Platform",
+  "forgotPass_text": "Please enter the Email or Gurukula ID associated with your account",
+  "recommended": "Recommended",
+  "have_account": "Already have an account? ",
+  "have_no_account": "Don't have an account? ",
+  "signup": "Sign up for free",
+  "tnc": "Accept the Terms and Privacy Policy",
+  "privacy_policy": "Privacy Policy",
+  "accept_the": "Accept the",
+  "terms": "Terms",
+  "and": "and",
+  "error": {
+    "login": {
+      "email": "Please enter Email or Gurukula Id.",
+      "email_format": "Invalid email format",
+      "password": "Please enter your Password."
+    }
+  }
+}

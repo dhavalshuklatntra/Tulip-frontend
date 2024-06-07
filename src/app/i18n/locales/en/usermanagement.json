@@ -1,0 +1,32 @@
+{
+  "user_management": "User Management",
+  "role": "Role",
+  "status": "Status",
+  "action": "Action",
+  "invite_user": "Invite User",
+  "active": "Active",
+  "inactive": "Inactive",
+  "gurukula_iD": "Gurukula ID",
+  "name": "Name",
+  "email": "Email",
+  "contact_no": "Contact No.",
+  "user_platform": "User Platform",
+  "send_invite": "Send Invite",
+  "edit_user": "Edit User",
+  "user_role": "User Role",
+  "career": "Career Path",
+  "valid_email_error": "Enter valid email and press enter",
+  "send": "Send",
+  "empty_list": "Please search user to get list",
+  "failed_email_invite": "Failed to initiate email",
+  "department": "Department",
+  "jobTitle": "Job Title",
+  "careerAssignTitle": "Assign Career Path",
+  "update": "Update",
+  "apply": "Apply",
+  "assignTable": {
+    "title": "Title",
+    "level_count": "Level Count",
+    "career_type": "Career Type"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "user_management": "ユーザー管理",
+  "invite_user": "ユーザーを招待する",
+  "active": "アクティブ",
+  "inactive": "非アクティブ",
+  "gurukula_iD": "Gurukula ID",
+  "name": "名前",
+  "email": "メールアドレス",
+  "contact_no": "連絡先番号",
+  "user_platform": "ユーザープラットフォーム",
+  "role": "役割",
+  "status": "ステータス",
+  "action": "アクション",
+  "send_invite": "招待の送信",
+  "edit_user": "編集ユーザー",
+  "user_role": "利用者の役割",
+  "career": "キャリアパス",
+  "valid_email_error": "有効なメールアドレスを入力してエンターキーを押してください",
+  "send": "送信",
+  "empty_list": "ユーザーを検索してリストを入手してください。",
+  "failed_email_invite": "電子メールの開始に失敗",
+  "department": "部門",
+  "jobTitle": "役職名",
+  "careerAssignTitle": "キャリアパスの割り当て",
+  "update": "更新",
+  "apply": "応募する",
+  "assignTable": {
+    "title": "タイトル",
+    "level_count": "レベル・カウント",
+    "career_type": "キャリア・タイプ"
+  }
+}

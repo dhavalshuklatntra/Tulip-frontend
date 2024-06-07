@@ -1,0 +1,4 @@
+@import '../../styles/variables.css';
+.ant-btn:disabled {
+  border: none;
+}

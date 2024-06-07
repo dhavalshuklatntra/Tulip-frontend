@@ -1,0 +1,19 @@
+:root {
+  --primary-color: #4f46e5;
+  --success-color: #10b981;
+  --error-color: #ff5724;
+  --info-color: #0ea5e9;
+  --warning-color: #ff9800;
+  --white-color: #fff;
+  /* --border-color-1: #cbd5e1;
+    --slate-150: #e9eef5;
+    --slate-200: #e2e8f0;
+    --text-slate-800: #1e293b; */
+  --box-shadow-1: 0 0.25rem 1.125rem rgba(75, 70, 92, 0.1);
+  --light-blue-color: linear-gradient(
+      135deg,
+      rgba(139, 133, 241, 0.2),
+      rgba(79, 70, 229, 0.2)
+    )
+    #fff;
+}
